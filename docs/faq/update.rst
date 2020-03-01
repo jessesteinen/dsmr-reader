@@ -12,4 +12,5 @@ You can update your application to the latest version by executing **deploy.sh**
 Make sure to execute it while logged in as the ``dsmr`` user::
 
    sudo su - dsmr
+   cd dsmr-reader
    ./deploy.sh
